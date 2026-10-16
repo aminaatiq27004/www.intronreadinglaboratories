@@ -1,0 +1,8 @@
+{
+  "name": "Remix Intron Reading Labs",
+  "description": "Core home of the Ultra Triplet Codon Theory (UTCT) and Global Researcher Conduit AI Chatbot uniting Geneticists, Molecular Biologists, and Genetic Engineers to speedily uplift post-corona resilience and explore the hidden universe beyond human perceptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
